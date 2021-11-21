@@ -14,4 +14,4 @@ A simple tutorial to demonstrate the use of SQLite in python
  3- <b>search_query.py </b> <br>
  4- <b>update_delete.py </b> <br>
  5- <b>delete_whole.py </b> <br> 
- Read the commments in the files and ececute the code. To view the changes in the database file on the excecution of code, you can use <b>'DB Browser for SQLite'</b></p>
+ Read the commments in the files and ececute the code. To view the changes in the database file occured after excecution of code, you can use <b>'DB Browser for SQLite'</b></p>
