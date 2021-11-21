@@ -8,7 +8,7 @@ A simple tutorial to demonstrate the use of SQLite in python
 <p>A database management system (or DBMS) is essentially nothing more than a computerized data-keeping system. Users of the system are given facilities to perform several kinds of operations on such a system for either manipulation of the data in the database or the management of the database structure itself.</p>
 
 <h1>About this tutorial</h1>
-<p>To understand the usage of SQLite database just go through the python files present in this repostitory one by one in the following order,<br>
+<p>To understand the usage of SQLite database, just go through the python files present in this repostitory one by one in the following order,<br>
  1-<b>create_database.py</b> <br>
  2- <b>query.py</b> <br>
  3- <b>search_query.py </b> <br>
