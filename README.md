@@ -9,7 +9,7 @@ A simple tutorial to demonstrate the use of SQLite in python
 
 <h1>About this tutorial</h1>
 <p>To understand the usage of SQLite database, just go through the python files present in this repostitory one by one in the following order,<br>
- 1-<b>create_database.py</b> <br>
+ 1- <b>create_database.py</b> <br>
  2- <b>query.py</b> <br>
  3- <b>search_query.py </b> <br>
  4- <b>update_delete.py </b> <br>
